@@ -1,0 +1,10 @@
+{
+  "port": 8080,
+  "server": {
+    "baseDir": "./",
+    "middleware": {
+      "1": null
+    }
+  },
+  "open": false
+}
